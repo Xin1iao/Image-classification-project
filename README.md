@@ -2,9 +2,9 @@
 This is the code collection for final project of "Performance comparison of State-of-the-art neural network architectures in the domain of Image Classification"
 
 ## Replication Instructions
-1. To download the .ipynb file
+1. Download the .ipynb file from this repository. The file contains dataset downloading, data preprocessing, model building and model training.
 2. Upload the file to Colab cloud Notebook (https://colab.research.google.com/)
-3. Connect with GPU server and run the corresponding cells for reproduction
+3. Connect with GPU server (e.g, V100) and run the corresponding cells for reproduction
 
 ## Requirement.txt
 numpy==1.21.0

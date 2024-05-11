@@ -7,8 +7,12 @@ This is the code collection for final project of "Performance comparison of Stat
 3. Connect with GPU server and run the corresponding cells for reproduction
 
 ## Requirement.txt
-numpy==1.21.0\\
-tensorflow==2.5.0\\
-keras==2.4.3\\
-matplotlib==3.4.2\\
-scikit-learn==0.24.2\\
+numpy==1.21.0
+
+tensorflow==2.5.0
+
+keras==2.4.3
+
+matplotlib==3.4.2
+
+scikit-learn==0.24.2
